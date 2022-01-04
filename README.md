@@ -32,9 +32,9 @@ POWER_TRACKING=OFF
 DELAY_FOR_CAPTURE=0
 
 TARGET_THERMAL=33
-# sec
+#sec
 THERMAL_WAITING=0
-# enable - 1 disable - 0
+#enable - 1 disable - 0
 POWER_BY_RATE=0
 POWER_LIMIT=0
 
