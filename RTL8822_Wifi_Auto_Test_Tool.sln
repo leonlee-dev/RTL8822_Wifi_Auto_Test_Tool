@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTL8822_Wifi_Auto_Test_Tool", "RTL8822_Wifi_Auto_Test_Tool\RTL8822_Wifi_Auto_Test_Tool.csproj", "{ED64FAB6-F408-4F5E-8E23-E29826327F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Debug|Any CPU.Build.0 = Debug|x86
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Debug|x86.ActiveCfg = Debug|x86
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Debug|x86.Build.0 = Debug|x86
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Release|x86.ActiveCfg = Release|x86
+		{ED64FAB6-F408-4F5E-8E23-E29826327F5F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05B1DE6-713D-4708-B4A0-C07B85C59564}
+	EndGlobalSection
+EndGlobal
